@@ -1,0 +1,20 @@
+{
+  "name": "signing-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@bitauth/libauth": "^1.16.0",
+    "@types/node": "12",
+    "bitcoinjs-lib": "^5.1.10",
+    "elliptic": "^6.5.3",
+    "typescript": "^3.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node signing-test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
