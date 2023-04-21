@@ -7,7 +7,7 @@
     "@bitauth/libauth": "^1.16.0",
     "@types/node": "12",
     "bitcoinjs-lib": "^5.1.10",
-    "elliptic": "^6.5.3",
+    "elliptic": "^6.5.4",
     "typescript": "^3.9.6"
   },
   "devDependencies": {},
